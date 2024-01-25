@@ -18,9 +18,10 @@ A MW2023 Weapon Ports for CS:GO, CS:SO, and CS:S.
 
 ---
 
-**Plugins Requirement for CS:S**
+**Plugins Requirement**
 - Inspect Plugin - [Here](https://youtu.be/b19fUunoKbI?si=J1_R93pw54zSXxuw)
 - MW19 Muzzleflash - [Here](https://gamebanana.com/mods/383007)
+- MIGI __(FOR CSGO)__ - [Here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTdzUVd3LTNLM3VEUlQ0WC15T3BWRlVvQ2xJQXxBQ3Jtc0trOEJrdjJzcDJGa3FvVWFKWjdpeGJpTTdzUFRNS0g3LW5uUkxYdFFLTTQtNUxCUlZ5T0trNVhva1hjZmZIczJNME8yTVFCNXNNVE1NWGtvcHQzcmtRbXFFVE1kRUNzaXRFS2hiTVRUUmlSMGVtcGdzYw&q=https%3A%2F%2Fgithub.com%2FZooLSmith%2FMIGI3%2Fraw%2Fmain%2Fmigi.exe&v=3GU0Ws8_CRg)
 
 ---
 
