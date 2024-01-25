@@ -21,3 +21,14 @@ A MW2023 Weapon Ports for CS:GO, CS:SO, and CS:S.
 **Plugins Requirement for CS:S**
 - Inspect Plugin - [Here](https://youtu.be/b19fUunoKbI?si=J1_R93pw54zSXxuw)
 - MW19 Muzzleflash - [Here](https://gamebanana.com/mods/383007)
+
+---
+
+**Stuff to Checkout**
+- [CSSO Retro Renegade Mastercraft Port](https://youtu.be/VtkqLDLHasg?si=VyxISVmRvXP1dMcO)
+- [CSSO MWIII MCW Port](https://youtu.be/g-2PuZ7jWrA?si=3JTsDpI2W6w9eVtk)
+- [CSSO Highway Butcher Mastercraft Port](https://youtu.be/plyxbfeXJh0?si=wxat_m8MOJwSlhdd)
+- [CSSO Mayan Malediction Mastercraft Port](https://youtu.be/8ZeyXB9DEao?si=vVRvLVZjnY0NJ2cB)
+- [CSSO Swatt Master Mastercraft Port](https://youtu.be/s7kE4UwB91E?si=35z-3MTDGXj4Qu03)
+- [CSSO MWII M4 Bravado Blueprint Port](https://youtu.be/XSZBPoRfhRo?si=tGuMKhalv0abP4ns)
+- [CSS MWIII WSP Stinger Port](https://youtu.be/FOw4uOrJ4_I?si=Y71Uadu_xPE9tQy6)
