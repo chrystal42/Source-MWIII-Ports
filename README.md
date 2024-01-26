@@ -37,7 +37,7 @@ A MW2023 Weapon Ports for CS:GO, CS:SO, and CS:S.
 ---
 
 **More Social Links**
-- [Discord Server](https://github.com/chrystal42/Source-MWIII-Ports)
+- [Discord Server](https://discord.com/invite/MQ6nUBZAxH)
 - [AJ's YouTube Channel](https://youtube.com/@aj.semodel?si=YEJtDsz2E5KfqmSu)
 - [ChrystaL's YouTube Channel](https://youtube.com/@chry7?si=ufy65GJBm8umwGm0)
 
