@@ -33,3 +33,11 @@ A MW2023 Weapon Ports for CS:GO, CS:SO, and CS:S.
 - [CSSO Swatt Master Mastercraft Port](https://youtu.be/s7kE4UwB91E?si=35z-3MTDGXj4Qu03)
 - [CSSO MWII M4 Bravado Blueprint Port](https://youtu.be/XSZBPoRfhRo?si=tGuMKhalv0abP4ns)
 - [CSS MWIII WSP Stinger Port](https://youtu.be/FOw4uOrJ4_I?si=Y71Uadu_xPE9tQy6)
+
+---
+
+**More Social Links**
+- [Discord Server](https://github.com/chrystal42/Source-MWIII-Ports)
+- [AJ's YouTube Channel](https://youtube.com/@aj.semodel?si=YEJtDsz2E5KfqmSu)
+- [ChrystaL's YouTube Channel](https://youtube.com/@chry7?si=ufy65GJBm8umwGm0)
+
