@@ -11,7 +11,7 @@ A MW2023 Weapon Ports for CS:GO, CS:SO, and CS:S.
 - Marathon - Hand Rig
 - Kirloper - Assets
 - Mushroom Guy - MWB Mats
-- Stomatolog - Muzzleflash
+- Stomatolog - Muzzleflash & Sounds
 - 98B, CindyQwQ - Plugins
 - Nekyo-kyo, ZeroN - Some Help with Ports and Render
 - AJ, ChrystaL - Porter
