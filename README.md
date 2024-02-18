@@ -15,6 +15,9 @@ A MW2023 Weapon Ports for CS:GO, CS:SO, and CS:S.
 - Mushroom Guy - MWB Mats
 - Stomatolog - Muzzleflash & Sounds
 - 98B, CindyQwQ - Plugins
+- EA45 - Renetti Materials
+- Viper, PMR - Lens Texture
+- YabrakPlays - Ammunition Material
 - Nekyo-kyo, ZeroN - Some Help with Ports and Render
 - AJ, ChrystaL - Porter
 
